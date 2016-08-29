@@ -1,0 +1,9 @@
+D:\Projetos\Projetos\NOC\NOC\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\bin\Debug\ConsoleApplicationStreamRead.exe.config
+D:\Projetos\Projetos\NOC\NOC\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\bin\Debug\ConsoleApplicationStreamRead.exe
+D:\Projetos\Projetos\NOC\NOC\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\bin\Debug\ConsoleApplicationStreamRead.pdb
+D:\Projetos\Projetos\NOC\NOC\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\obj\Debug\ConsoleApplicationStreamRead.csprojResolveAssemblyReference.cache
+D:\Projetos\Projetos\NOC\NOC\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\obj\Debug\ConsoleApplicationStreamRead.exe
+D:\Projetos\Projetos\NOC\NOC\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\obj\Debug\ConsoleApplicationStreamRead.pdb
+D:\projetos\FCamara - NetShoes\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\bin\Debug\ConsoleApplicationStreamRead.exe.config
+D:\projetos\FCamara - NetShoes\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\obj\Debug\ConsoleApplicationStreamRead.exe
+D:\projetos\FCamara - NetShoes\ConsoleApplicationStreamRead\ConsoleApplicationStreamRead\obj\Debug\ConsoleApplicationStreamRead.pdb
