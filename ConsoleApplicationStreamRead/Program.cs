@@ -16,7 +16,10 @@ namespace ConsoleApplicationStreamRead {
 
       IStream iStrm = new MyStream(Encoding.UTF8.GetBytes(input));
       var output = firstChar(iStrm);
-      Console.WriteLine($"Mensagem de saida : {output}" );
+      if(output == Convert.ToChar(" "))
+        Console.WriteLine($"Não foi localizado vogal que não se repete após a primeira Consoante.");
+      else
+        Console.WriteLine($"Foi localizado vogal '{output}' que se repete após a primeira Consoante." );
 
       Console.ReadKey();
 
